@@ -6,7 +6,7 @@ $name = "真鳥将一";
 if ($name == "真鳥将一"){
     echo "私は" . $name . "です";
 }else{
-    echo $name . "ではありません";
+    echo "真鳥将一ではありません";
 }
 echo "\n";
 
